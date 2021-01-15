@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fava = { git = "https://github.com/johannesjh/fava.git", branch = "setup-with-fe-build" }
+fava = { git = "https://github.com/beancount/fava.git" }
 
 [tool.poetry.dev-dependencies]
 
